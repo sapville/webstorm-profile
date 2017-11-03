@@ -19,4 +19,9 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="for" value="for (let i = 0; i &lt; array.length; i++) {&#10;      array[i];&#10;    }" description="for" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
