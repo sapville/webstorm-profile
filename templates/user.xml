@@ -9,7 +9,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="if" value="if (expression) {&#10;          &#10;        }" description="if" toReformat="true" toShortenFQNames="true">
+  <template name="if" value="if () {&#10;          &#10;        }" description="if" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
