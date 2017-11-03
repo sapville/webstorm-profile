@@ -1,0 +1,27 @@
+<templateSet group="user">
+  <template name="switch" value="switch (expression) {&#10;      case value:&#10;&#10;        break;&#10;      default:&#10;    }" description="switch" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="case" value="case :&#10;        break;" description="case" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="if" value="if () {&#10;          &#10;        }" description="if" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="if else" value="if (expression) {&#10;&#10;        } else {&#10;          &#10;        }" description="if ... else" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="for" value="for (let i = 0; i &lt; array.length; i++) {&#10;      array[i];&#10;    }" description="for" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
