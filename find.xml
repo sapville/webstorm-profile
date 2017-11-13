@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="arcade" />
-    <option name="defaultScopeName" value="arcade" />
-    <option name="SEARCH_SCOPE" value="arcade" />
+    <option name="customScope" value="feedreader" />
+    <option name="defaultScopeName" value="feedreader" />
+    <option name="SEARCH_SCOPE" value="feedreader" />
   </component>
 </application>
