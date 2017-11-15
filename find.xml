@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Open Files" />
-    <option name="defaultScopeName" value="Open Files" />
-    <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="customScope" value="feedreader" />
+    <option name="defaultScopeName" value="feedreader" />
+    <option name="SEARCH_SCOPE" value="feedreader" />
   </component>
 </application>
