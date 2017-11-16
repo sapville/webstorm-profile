@@ -24,7 +24,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="console" value="console.log();" description="console" toReformat="true" toShortenFQNames="true">
+  <template name="log" value="console.log();" description="console" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
