@@ -13,7 +13,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="C:/PortablePrograms/nodejs/babel.cmd" />
+      <option name="program" value="C:/PortablePrograms/nodejs/node_modules/babel/.bin/babel.cmd" />
       <option name="runOnExternalChanges" value="false" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
