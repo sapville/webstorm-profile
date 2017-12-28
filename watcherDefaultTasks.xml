@@ -1,7 +1,7 @@
 <application>
   <component name="ApplicationTasksOptions">
-    <TaskOptions isEnabled="true">
-      <option name="arguments" value="$FilePathRelativeToProjectRoot$ --out-di $ProjectFileDir$\dist --source-maps --presets" />
+    <TaskOptions isEnabled="false">
+      <option name="arguments" value="$FilePathRelativeToProjectRoot$ --out-dir $ProjectFileDir$\dist --source-maps --presets" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
@@ -13,7 +13,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/WebstormProjects/babel-test/node_modules/.bin/babylon.cmd" />
+      <option name="program" value="C:/PortablePrograms/nodejs/babel.cmd" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
