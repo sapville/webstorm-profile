@@ -13,7 +13,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/OneDrive/Documents/GitHub/babel-test/node_modules/.bin/babel.cmd" />
+      <option name="program" value="C:/babel-test/node_modules/.bin/babel" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
