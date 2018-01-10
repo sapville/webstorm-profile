@@ -1,5 +1,13 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/google-maps" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/knockout" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="jQuery UI-1.10.2" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
