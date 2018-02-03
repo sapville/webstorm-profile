@@ -46,5 +46,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="sap-ui-core" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_sapui5.hana.ondemand.com_resources_sap-ui-core.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_sapui5.hana.ondemand.com_resources_sap-ui-core.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
