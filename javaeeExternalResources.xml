@@ -1,0 +1,8 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="sap.m" location="D:/Libraries/OpenUI5/resources/schemas/sap.m.xsd.xml" />
+    <resource url="sap.ui.core.mvc" location="D:/Libraries/OpenUI5/resources/schemas/sap.ui.core.xsd.xml" />
+    <resource url="sap.ui.layout" location="D:/Libraries/OpenUI5/resources/schemas/sap.ui.layout.xsd.xml" />
+    <resource url="sap.ui.layout.form" location="D:/Libraries/OpenUI5/resources/schemas/sap.ui.layout.xsd.xml" />
+  </component>
+</application>
